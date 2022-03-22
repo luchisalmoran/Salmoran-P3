@@ -32,9 +32,9 @@ const vue_app = Vue.createApp({
       data() {
         return {
             // This holds your movies.json data.
-            movies: [],
+            movies: [ ],
             /* ADD ADDITIONAL VARIABLES FOR STEP 3 HERE */
-      }
+            github: "https://luchisalmoran.github.io/Salmoran-P3/"
     },
       methods: {
             /* ADD FUNCTIONS/METHODS FOR STEP 7 HERE */
