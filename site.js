@@ -42,10 +42,8 @@ const vue_app = Vue.createApp({
       methods: {
             /* ADD FUNCTIONS/METHODS FOR STEP 7 HERE */
             getMonthText(dateArray){
-
+  values[2022,28,04] = true;
             }
-            handleClick: function() {
-   alert('test')
       }
 })
 
